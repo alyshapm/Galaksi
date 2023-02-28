@@ -1,2 +1,1 @@
-# Galaksi
-Galak galak
+# Introduction to Galaksi
